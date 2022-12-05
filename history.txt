@@ -1,0 +1,36 @@
+   0 whoami
+   1 cd
+   2 pwd
+   3 cd /
+   4 ls
+   5 cd/
+   6 cd / 
+   7 ls
+   8 cd /root 
+   9 cd /home
+  10 pwd
+  11 cd
+  12 whoami
+  13 cd /home
+  14 cd /r
+  15 cd /root
+  16 /cd /home 
+  17 ls
+  18 cd /
+  19 ls
+  20 cd /home
+  21 cd /
+  22 cd /home 
+  23 mkdir --help 
+  24 mkdir user1
+  25 cd user1
+  26 ls
+  27 mkdir task1
+  28 ls
+  29 cd task1
+  30 touch file1.txt
+  31 ls
+  32 cd
+  33 ls
+  34 history
+  35 history > history.txt
